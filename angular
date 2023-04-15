@@ -1,0 +1,11 @@
+# To create new app in workspcae
+$ ng g application <app_name>
+
+# To generate module in project
+$ ng g m <module_name> --project=<app_name>
+
+# To generate module in project
+$ ng g m <module_name> --project=<app_name>
+
+# To generate component inside a specific module
+$ ng g c /<module_name>/<component_name>  --module=<module_name> --project=<app_name>
